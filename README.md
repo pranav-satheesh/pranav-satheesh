@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-- 🔭  I’m currently working on characterizing host galaxies of massive black hole (MBH) mergers using cosmological simulations
-- 🌱  I'm always learning new things about galaxy and MBH evolution. Checkout my notes [here](https://github.com/pranav-satheesh/Massive-black-holes-notes).
+- 🔭  I’m currently working on characterizing host galaxies of massive black hole (MBH) mergers using cosmological simulations.
+- 🌱  I'm always learning new things about galaxy and MBH formation and evolution. Check out my notes [here](https://github.com/pranav-satheesh/Massive-black-holes-notes).
 
  
 <!--
